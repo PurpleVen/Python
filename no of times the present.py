@@ -3,4 +3,4 @@ result = mystring.split()
 
 print(result)
 print("The total number of words is: " + str(len(result)))
-print("The word 'sentence' occurs: " + str(result.count("the")))
+print("The word 'the' occurs: " + str(result.count("the")))
